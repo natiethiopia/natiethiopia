@@ -1,8 +1,4 @@
-<style>
-  body{
-    background-color:black;
-  }
-</style>
+
 # 💫 About Me:
 Hello there! I'm a highly skilled full-stack software engineer passionate about creating robust and efficient web applications. With expertise in various programming languages and technologies, including PHP, Python, Node.js, Express.js, and React.js, I strive to deliver exceptional solutions that meet the unique needs of each project.
 
