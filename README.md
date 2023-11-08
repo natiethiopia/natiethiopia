@@ -1,4 +1,4 @@
-![Background]([https://your-dark-background-image-url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Ftag%2Fgithub-wallpapers&psig=AOvVaw1QoV06UPADvkKDPIjZqu3B&ust=1699522031942000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCZ64mLtIIDFQAAAAAdAAAAABAE))
+![Background](https://your-dark-background-image-url)
 # 💫 About Me:
 Hello there! I'm a highly skilled full-stack software engineer passionate about creating robust and efficient web applications. With expertise in various programming languages and technologies, including PHP, Python, Node.js, Express.js, and React.js, I strive to deliver exceptional solutions that meet the unique needs of each project.
 
